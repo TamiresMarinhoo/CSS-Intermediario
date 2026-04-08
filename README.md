@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como parte dos meus estudos em HTML e CSS, com foc
 
 📸 Preview
 
-
+preview.png
 
 
 💻 Sobre o projeto
